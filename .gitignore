@@ -13,3 +13,5 @@ secret.gradle
 *.swp
 .DS_Store
 build
+
+gradle.properties
