@@ -27,8 +27,8 @@ dependencies {
 
 publish {
     userOrg = 'shts'
-    groupId = 'jp.shts'
-    artifactId = 'HeartRailsExpressApiClient'
+    groupId = 'jp.shts.android'
+    artifactId = 'heart-rails-express-api'
     version = '1.0.0'
     description = 'HeartRailsExpressApi for Android'
     website = 'https://github.com/shts/HeartRailsExpressApi'
